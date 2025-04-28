@@ -1,4 +1,4 @@
-# Flipper Multi 🔥
+# FlipperZero Multitool 🔥
 
 Flipper Multi is a modular installer for Flipper Zero tools, BadUSB payloads, BadKB payloads, and firmware — designed for educational and testing purposes only.
 
