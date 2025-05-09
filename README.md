@@ -2,6 +2,13 @@
 
 Flipper Multi is a modular installer for Flipper Zero tools, BadUSB payloads, BadKB payloads, and firmware — designed for educational and testing purposes only.
 
+## ⚠️ Project Discontinued
+
+`This batch multitool is unfinished and I've decided to discontinue it. 
+Turns out trying to make everything work nicely in batch mode is more of a headache than I expected, and honestly, not worth the hassle for what I was going for.
+That said, I’m not done with the Flipper, I’ve moved on to something a bit more fun (and hopefully more useful) involving BadUSB/BadKB stuff. Stay tuned 👀
+Thanks for checking this out anyway!`
+
 ## ✨ Features
 - 📥 Easily download and install Flipper Zero payloads and firmware directly from GitHub repositories.
 - 🧭 Organized menu system to navigate different categories of scripts.
